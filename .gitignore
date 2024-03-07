@@ -1,0 +1,3 @@
+manager/staticfiles/*
+manager/helpers/__pycache__*
+*.py[cod]
